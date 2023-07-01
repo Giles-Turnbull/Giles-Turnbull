@@ -2,7 +2,7 @@
 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
 
-[![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)](https://scholar.google.com/)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL_Database-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github_Copilot-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
