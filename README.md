@@ -1,6 +1,6 @@
 <h1>Hey, I'm Giles!</h1>
 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="40" title="Stack Overflow"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
