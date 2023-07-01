@@ -1,5 +1,7 @@
 <h1>Hi, I'm Giles</h1>
 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
+
 <h2>My projects:</h2>
 
 - <b>Web Applications</b>
@@ -17,7 +19,10 @@
 
 <h2>Programming Languages and Frameworks</h2>
 <details>
-  <summary>List of Languages I know And Use In My Projects</summary>
+  <summary>List of Languages I know And Use In My Projects
+    
+  [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,bootstrap,angular,nodejs,matlab,dart,bash)](https://skillicons.dev)
+  </summary>
   
 - C++
 - Python
@@ -25,7 +30,10 @@
 - CSS
 - JavaScript
 - Bootstrap 5
-- Angular
+- Angular  
 - Node.js
 - Matlab
+- dart
+- flutter
+- SQL
 </details>
