@@ -18,11 +18,12 @@
   - [Advanced Web Applications Development portfolio]()
 - <b>C++ programs</b>
   - [Implementation of A* algorithm](https://github.com/Giles-Turnbull/Bright-Network-Internship-Experience)
-  - <details><summary>University</summary>Problem Solving and Programming<br>Object Orientated Programming</details>
+  - [Object Orientated Programming Project](https://github.com/Giles-Turnbull/Object-Orientated-Programming-Project)
+  - [Object Orientated Programming portfolio](https://github.com/Giles-Turnbull/Object-Orientated-Programming-Portfolio)
 - <b>Python</b>
   - [Cryptography Automation](https://github.com/Giles-Turnbull/cryptography-automation)
   - [Directory Destroyer](https://github.com/Giles-Turnbull/directory-destroyer)
-  - <details><summary>University</summary>Fundamentals of Artifical Intelligence<br>Matlab</details>
+  - <details><summary>University</summary>Fundamentals of Artificial Intelligence<br>Matlab</details>
   
 
 <h2>Programming Languages and Frameworks</h2>
