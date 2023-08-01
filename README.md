@@ -12,7 +12,7 @@
 - <b>Web Applications</b>
   - [Mailinator Scanner](https://github.com/Giles-Turnbull/mailinator-scanner)
   - [Web Scraper](https://github.com/Giles-Turnbull/web-scraper-accumulator)
-  - <details><summary>University</summary>Web Applications Development Portfolio<br>Web Applications Development Project</details>
+  - <details><summary>University</summary>Web Applications Development Portfolio<br>[Web Applications Development Project](https://github.com/Giles-Turnbull/Bank-Worker-Website)</details>
 - <b>C++ programs</b>
   - [Implementation of A* algorithm](https://github.com/Giles-Turnbull/Bright-Network-Internship-Experience)
   - <details><summary>University</summary>Problem Solving and Programming<br>Object Orientated Programming</details>
