@@ -27,6 +27,6 @@
 
 <h2>Programming Languages and Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,bootstrap,angular,nodejs,matlab,dart,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,django,mysql,html,css,js,bootstrap,angular,react,nodejs,matlab,dart,flutter,bash)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Turnbull&layout=compact)
