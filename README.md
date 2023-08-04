@@ -23,7 +23,7 @@
 - <b>Python</b>
   - [Cryptography Automation](https://github.com/Giles-Turnbull/cryptography-automation)
   - [Directory Destroyer](https://github.com/Giles-Turnbull/directory-destroyer)
-  - <details><summary>University</summary>Fundamentals of Artificial Intelligence<br>Matlab</details>
+  - [Fundamentals of Artificial Intelligence](https://github.com/Giles-Turnbull/Fundamentals-of-Artificial-Intelligence)
   
 
 <h2>Programming Languages and Frameworks</h2>
