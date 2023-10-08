@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center" >Hey, I'm Giles!</h1>
-<h3 align="center">This is my coding portfolio</h3>
+<h3 align="center">This is my coding portfolio, take a look a look around</h3>
 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="40" title="Stack Overflow"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
 
