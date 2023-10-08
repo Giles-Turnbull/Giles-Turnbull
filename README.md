@@ -1,8 +1,9 @@
-<h1 align="center" >Hey, I'm Giles!</h1>
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://your-destination-link-here.com)
 
-<p align="center">
+<h1 align="center" >Hey, I'm Giles!</h1>
+<h3 align="center">This is my coding portfolio</h3>
+
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="40" title="Stack Overflow"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
-</p>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
@@ -12,7 +13,7 @@
 <h2>My projects:</h2>
 
 
-<img align="right" alt="coding" width="400" href="https://media.tenor.com/qp5VLQ9Cg24AAAAM/it-crowd-on-fire.gif">
+<img align="right" alt="coding" width="450" src="https://media.tenor.com/eGmUG-T4g1sAAAAM/richard-ayoade-fire.gif">
   
 - <b>Web Applications</b>
   - [Mailinator Scanner](https://github.com/Giles-Turnbull/mailinator-scanner)
@@ -32,6 +33,7 @@
 
 <h2>Programming Languages and Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,django,mysql,html,css,js,bootstrap,angular,ts,react,nodejs,matlab,dart,flutter,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,mysql,html,css,js,ts,matlab,dart,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,angular,react,nodejs,flutter)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Turnbull&layout=compact)
