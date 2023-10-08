@@ -13,7 +13,7 @@
 <h2>My projects:</h2>
 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/eGmUG-T4g1sAAAAM/richard-ayoade-fire.gif">
+<img align="right" alt="coding" width="450" src="https://media.tenor.com/eGmUG-T4g1sAAAAM/richard-ayoade-fire.gif">
   
 - <b>Web Applications</b>
   - [Mailinator Scanner](https://github.com/Giles-Turnbull/mailinator-scanner)
