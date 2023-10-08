@@ -1,6 +1,8 @@
-<h1>Hey, I'm Giles!</h1>
+<h1 align="center" >Hey, I'm Giles!</h1>
 
+<p align="center">
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="40" title="Stack Overflow"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
+</p>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
@@ -9,6 +11,9 @@
 
 <h2>My projects:</h2>
 
+
+<img align="right" alt="coding" width="400" href="https://media.tenor.com/qp5VLQ9Cg24AAAAM/it-crowd-on-fire.gif">
+  
 - <b>Web Applications</b>
   - [Mailinator Scanner](https://github.com/Giles-Turnbull/mailinator-scanner)
   - [Web Applications Development project](https://github.com/Giles-Turnbull/Bank-Worker-Website)
@@ -23,7 +28,7 @@
   - [Cryptography Automation](https://github.com/Giles-Turnbull/cryptography-automation)
   - [Directory Destroyer](https://github.com/Giles-Turnbull/directory-destroyer)
   - [Fundamentals of Artificial Intelligence](https://github.com/Giles-Turnbull/Fundamentals-of-Artificial-Intelligence)
-  
+
 
 <h2>Programming Languages and Frameworks</h2>
 
