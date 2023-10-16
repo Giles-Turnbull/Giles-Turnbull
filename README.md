@@ -40,4 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,mysql,html,css,js,ts,matlab,dart,bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django,bootstrap,angular,react,nodejs,flutter)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Turnbull&layout=compact)
+<h2>About me</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Turnbull&layout=compact)<br><br>
+<img src="https://i.imgur.com/2q8Kyam.png" width="300">
