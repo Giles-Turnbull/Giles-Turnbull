@@ -38,7 +38,7 @@
 <h2>Programming Languages and Frameworks</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,mysql,html,css,js,ts,matlab,dart,bash)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,angular,react,nodejs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,laravel,angular,react,nodejs,flutter)](https://skillicons.dev)
 
 <h2>About me</h2>
 
