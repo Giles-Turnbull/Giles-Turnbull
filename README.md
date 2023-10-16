@@ -21,8 +21,8 @@
   - [Web Applications Development portfolio](https://github.com/Giles-Turnbull/WAD-portfolio)
   - [Advanced Web Applications Development project]()
   - [Advanced Web Applications Development portfolio]()
-  - [Warframe Market Analysis Tool]()
-  - [Youtube Popup Blocker Chrome Extension]()
+  - [Warframe Market Analysis Tool](https://github.com/Giles-Turnbull/Warframe-market-analysis)
+  - [Youtube Popup Blocker Chrome Extension](https://github.com/Giles-Turnbull/YouTube-Add-Blocker-Alert-Remover)
 - <b>C++ programs</b>
   - [Implementation of A* algorithm](https://github.com/Giles-Turnbull/Bright-Network-Internship-Experience)
   - [Object Orientated Programming Project](https://github.com/Giles-Turnbull/Object-Orientated-Programming-Project)
