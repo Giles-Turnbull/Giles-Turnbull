@@ -17,7 +17,6 @@
   
 - <b>Web Applications</b>
   - [Advanced Web Applications Development project](https://github.com/Giles-Turnbull/Full-stack-economic-website)
-  - [Advanced Web Applications Development portfolio]()
   - [Web Applications Development project](https://github.com/Giles-Turnbull/Bank-Worker-Website)
   - [Web Applications Development portfolio](https://github.com/Giles-Turnbull/WAD-portfolio)
   - [Warframe Market Analysis Tool](https://github.com/Giles-Turnbull/Warframe-market-analysis)
