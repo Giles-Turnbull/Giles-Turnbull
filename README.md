@@ -16,22 +16,22 @@
 <img align="right" alt="coding" width="450" src="https://i.imgur.com/o7IH4zp.gif">
   
 - <b>Web Applications</b>
-  - [Advanced Web Applications Development project](https://github.com/Giles-Turnbull/Full-stack-economic-website)
-  - [Web Applications Development project](https://github.com/Giles-Turnbull/Bank-Worker-Website)
+  - [Advanced Web Applications Development project](https://github.com/Giles-Turnbull/Full-stack-economic-website) :star:
+  - [Web Applications Development project](https://github.com/Giles-Turnbull/Bank-Worker-Website) :star:
   - [Web Applications Development portfolio](https://github.com/Giles-Turnbull/WAD-portfolio)
-  - [Custom Built Website](https://github.com/Giles-Turnbull/Alpha-Website)
+  - [Custom Built Website](https://github.com/Giles-Turnbull/Alpha-Website) :star:
   - [Warframe Market Analysis Tool](https://github.com/Giles-Turnbull/Warframe-market-analysis)
   - [Youtube Popup Blocker Chrome Extension](https://github.com/Giles-Turnbull/YouTube-Add-Blocker-Alert-Remover)
   - [Mailinator Scanner](https://github.com/Giles-Turnbull/mailinator-scanner)
 - <b>C++ programs</b>
-  - [Implementation of A* algorithm](https://github.com/Giles-Turnbull/Bright-Network-Internship-Experience)
+  - [Implementation of A* algorithm](https://github.com/Giles-Turnbull/Bright-Network-Internship-Experience) :star:
   - [Object Orientated Programming Project](https://github.com/Giles-Turnbull/Object-Orientated-Programming-Project)
   - [Object Orientated Programming portfolio](https://github.com/Giles-Turnbull/Object-Orientated-Programming-Portfolio)
 - <b>Python</b>
   - [Cryptography Automation](https://github.com/Giles-Turnbull/cryptography-automation)
-  - [Directory Destroyer](https://github.com/Giles-Turnbull/directory-destroyer)
+  - [Directory Destroyer](https://github.com/Giles-Turnbull/directory-destroyer) :star:
   - [Fundamentals of Artificial Intelligence](https://github.com/Giles-Turnbull/Fundamentals-of-Artificial-Intelligence)
-  - [File management system](https://github.com/Giles-Turnbull/File-Manager/)
+  - [File management system](https://github.com/Giles-Turnbull/File-Manager/) :star:
   - [Dependency Installer](https://github.com/Giles-Turnbull/Dependency-Installer)
 
 
