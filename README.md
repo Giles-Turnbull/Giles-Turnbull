@@ -3,7 +3,7 @@
 <h1 align="center" >Hey, I'm Giles!</h1>
 <h3 align="center">This is my coding portfolio, take a look a look around</h3>
 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="40" title="Stack Overflow"> [<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram">](https://www.instagram.com/giles_jack_/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn">](https://www.linkedin.com/in/giles-turnbull-984853243/) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="40" title="Stack Overflow">](https://stackoverflow.com/users/7293474/giles) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram">](https://www.instagram.com/giles_jack_/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
