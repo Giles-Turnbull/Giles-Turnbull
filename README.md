@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center" >Hey, I'm Giles!</h1>
-<h3 align="center">This is my coding portfolio, take a look a look around</h3>
+<h1 align="center" >Hey, I'm Giles! I'm the director of GTDS</h1>
+<h3 align="center">This is my coding portfolio, take a look a look around. I mainly work with Svelte but also specialise in python and C#.</h3>
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn">](https://www.linkedin.com/in/giles-turnbull-984853243/) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="40" title="Stack Overflow">](https://stackoverflow.com/users/7293474/giles) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram">](https://www.instagram.com/giles_jack_/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="40" title="Gmail"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord">
 
@@ -37,8 +37,8 @@
 
 <h2>Programming Languages and Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,mysql,html,css,js,ts,matlab,dart,bash)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,laravel,angular,react,nodejs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,sqlite,c,cpp,cs,py,html,css,js,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,django,bootstrap,angular,react,nodejs,pnpm,flutter)](https://skillicons.dev)
 
 <h2>About me</h2>
 
